@@ -1,4 +1,4 @@
-# 📱 Mobile Sales Dashboard
+# 📱 Mobile Sales Analysis and Dashboard
 
 **A Data Analysis and Visualization Project**
 
@@ -37,22 +37,28 @@ The dashboard includes the following visuals:
 
 ---
 
+## 🖼️ Project Screenshots
+<p align="center">
+  Figure 1: Sales Overview Dashboard <br> <br>
+  <img src="screenshot/ss1.jpg" width="70%" />
+</p>
+<p align="center"> 
+   Figure 2: MTD by year, quater, day, month <br> <br>
+  <img src="screenshot/ss2.jpg" width="70%" />
+</p>
+<p align="center">
+   Figure 3: Year-over-Year Sales Comparison <br> <br>
+  <img src="screenshot/ss3.jpg" width="70%" />
+</p>
+
+---
+
 ## ⚙️ Tools & Technologies Used
 
 * **Power BI Desktop**
 * **Microsoft Excel / CSV** (for data source, if applicable)
 * **DAX** (for custom calculations)
 * **Power Query** (for data cleaning and transformation)
-
----
-
-## 📌 How to Use
-
-1. Clone or download this repository.
-2. Open the `.pbix` file using **Power BI Desktop**.
-3. Refresh the dataset if required.
-4. Explore the different pages and visuals.
-5. Filter data using interactive slicers for city, brand, model, or payment method.
 
 ---
 
@@ -79,27 +85,12 @@ Through this project, I enhanced my skills in:
 
 ---
 
-## 📌 Project Preview
-
-**Sample metrics:**
-
-* **Total Sales:** 769M
-* **Total Quantity Sold:** 19K
-* **Total Transactions:** 4K
-* **Average Price:** 40.11K
-
-*(Values shown are for demonstration only, based on the uploaded PDF)*
-
----
-
 ## ✨ Author
 
-* **Name:** \[Your Name]
-* **LinkedIn:** \[Your LinkedIn URL]
-* **GitHub:** \[Your GitHub Profile URL]
+* **Name:** Piyush Patil
+* **LinkedIn:** https://www.linkedin.com/in/piyush-patil-haveachat/
+* **GitHub:** https://github.com/PiyushPatil08
 
----
 
-## 📄 License
 
-This project is for educational purposes. Feel free to fork and experiment!
+
