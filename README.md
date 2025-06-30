@@ -40,15 +40,15 @@ The dashboard includes the following visuals:
 ## 🖼️ Project Screenshots
 <p align="center">
   Figure 1: Sales Overview Dashboard <br> <br>
-  <img src="screenshot/ss1.jpg" width="70%" />
+  <img src="screenshot/ss1.jpg" width="80%" />
 </p>
 <p align="center"> 
    Figure 2: MTD by year, quater, day, month <br> <br>
-  <img src="screenshot/ss2.jpg" width="70%" />
+  <img src="screenshot/ss2.jpg" width="80%" />
 </p>
 <p align="center">
    Figure 3: Year-over-Year Sales Comparison <br> <br>
-  <img src="screenshot/ss3.jpg" width="70%" />
+  <img src="screenshot/ss3.jpg" width="80%" />
 </p>
 
 ---
