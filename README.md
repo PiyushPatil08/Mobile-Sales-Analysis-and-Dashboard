@@ -1,88 +1,19 @@
-# 📱 Mobile Sales Analysis and Dashboard
+# Power_BI_Dashboard
+Files related Interactive Dashboard in Power BI Lesson video available on YouTube
+<Br>
 
-**A Data Analysis and Visualization Project**
 
----
 
-## 📊 Project Overview
 
-This project is an interactive **Mobile Sales Dashboard** created using **Power BI Desktop**. It analyzes and visualizes mobile sales data across different cities, brands, models, months, and payment methods. The dashboard provides deep insights to help businesses and stakeholders make data-driven decisions.
+👉 Watch Video : <br><br>
 
----
+[![Watch the video](https://img.youtube.com/vi/znJGWMtk_EE/hqdefault.jpg)](https://www.youtube.com/watch?v=znJGWMtk_EE&t=1s)
+<br><br>
+👉 You will be able to build Dashboard like below <br><br>
+👆 [Click Here View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzEwYzYzOTYtOWRkNC00ZWM5LTkwM2MtNWE2YmI2YzkzNWY0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+<br><br>
+<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/Dashboard.jpg" alt="Image Description" width="300">
+<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/MTD%20Report.jpg" width="300">
+<img src="https://github.com/SatishDhawale/Power_BI_Dashboard/blob/0192a63d87dda50ea2f26bca02ba048dd883b9d1/Same%20Period%20Last%20Year%20report.jpg" alt="Image Description" width="300">
 
-## ✅ Key Features
 
-* 📈 **Total Sales, Quantity & Transactions** overview
-* 🗓️ Sales trends by **Month, Quarter, and Year**
-* 🗺️ Sales distribution across **Cities**
-* 🏷️ Insights by **Mobile Brand and Model**
-* 💳 Analysis of **Payment Methods** used by customers
-* ⭐ **Customer Ratings** distribution
-* 📅 Sales performance by **Day of the Week**
-* 📊 **Year-over-Year** comparison (Same Period Last Year)
-* 🗂️ MTD (Month-to-Date) and YTD (Year-to-Date) reports
-
----
-
-## 🗂️ Dashboard Visuals
-
-The dashboard includes the following visuals:
-
-* Bar charts for total sales by city and mobile models
-* Line/column charts for sales trends by time
-* Pie charts for payment method distribution
-* KPI cards for total sales, total quantity sold, transactions, and average price
-* Map visuals for geospatial analysis
-* Rating status visuals to monitor customer satisfaction
-
----
-
-## 🖼️ Project Screenshots
-
-<p align="center">
-  <img src="screenshot/ss1.jpg" width="30%" />
-  <img src="screenshot/ss2.jpg" width="30%" />
-  <img src="screenshot/ss3.jpg" width="30%" />
-</p>
-
----
-
-## ⚙️ Tools & Technologies Used
-
-* **Power BI Desktop**
-* **Microsoft Excel / CSV** (for data source, if applicable)
-* **DAX** (for custom calculations)
-* **Power Query** (for data cleaning and transformation)
-
----
-
-## 🚀 Insights Derived
-
-Some key insights this dashboard uncovers:
-
-* Top-selling cities and brands.
-* Preferred payment methods of customers.
-* Monthly and seasonal sales trends.
-* Average price analysis by mobile model.
-* Customer ratings and feedback.
-
----
-
-## 📚 Learnings
-
-Through this project, I enhanced my skills in:
-
-* Data cleaning and modeling.
-* DAX functions for measures and KPIs.
-* Designing effective and interactive dashboards.
-* Using visual storytelling to derive actionable insights.
-
----
-
-## ✨ Author
-
-* **Name:** \[Your Name]
-* **LinkedIn:** \[Your LinkedIn URL]
-* **GitHub:** \[Your GitHub Profile URL]
-
----
