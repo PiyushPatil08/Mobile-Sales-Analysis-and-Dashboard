@@ -40,9 +40,9 @@ The dashboard includes the following visuals:
 ## 🖼️ Project Screenshots
 
 <p align="center">
-  <img src="screenshots/screenshot1.png" width="30%" />
-  <img src="screenshots/screenshot2.png" width="30%" />
-  <img src="screenshots/screenshot3.png" width="30%" />
+  <img src="screenshot/ss1.jpg" width="30%" />
+  <img src="screenshot/ss2.jpg" width="30%" />
+  <img src="screenshot/ss3.jpg" width="30%" />
 </p>
 
 ---
