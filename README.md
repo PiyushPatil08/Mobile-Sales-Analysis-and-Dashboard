@@ -56,6 +56,7 @@ The dashboard includes the following visuals:
 ## ⚙️ Tools & Technologies Used
 
 * **Power BI Desktop**
+* **SQL**
 * **Microsoft Excel / CSV** (for data source, if applicable)
 * **DAX** (for custom calculations)
 * **Power Query** (for data cleaning and transformation)
